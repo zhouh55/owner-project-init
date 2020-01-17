@@ -1,0 +1,36 @@
+Arguments: 
+  E:\my-project\nodejs\node.exe E:\my-project\nodejs\node_global\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\my-project\nodejs\;C:\Program Files\TortoiseSVN\bin;E:\周男神专用软件\RKGL\bin\DevSdkPlugin;E:\svnServer\svnAdd\bin;C:\Users\10692\AppData\Local\Microsoft\WindowsApps;D:\IntelliJ IDEA 2019.1\bin;;C:\Users\10692\AppData\Roaming\npm;E:\my-project\nodejs\node_global;
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (E:\my-project\nodejs\node_global\node_modules\yarn\lib\cli.js:136824:13)
+      at Interface.emit (events.js:189:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:168:10)
+      at ReadStream.emit (events.js:189:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1022:36)
+      at ReadStream.emit (events.js:189:13)
+      at addChunk (_stream_readable.js:284:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
